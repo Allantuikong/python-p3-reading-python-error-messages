@@ -1,3 +1,6 @@
 #!/usr/bin/env python3
 
-assert(1 == 2)
+value1 = 2
+value2 = 2
+
+assert(value1 == value2)
